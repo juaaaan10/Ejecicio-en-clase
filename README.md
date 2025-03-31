@@ -1,2 +1,2 @@
 # Ejecicio-en-clase
-Ejercicios de clase, desarollo wev
+Ejercicios de clase, desarollo web
